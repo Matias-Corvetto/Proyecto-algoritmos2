@@ -1,0 +1,11 @@
+# Ignorar la carpeta .vscode
+.vscode/
+
+# Ignorar la carpeta .idea
+.idea/
+
+# Ignorar todos los archivos .exe
+*.exe
+
+# Ignorar lo que termine en -tests
+*-tests/
